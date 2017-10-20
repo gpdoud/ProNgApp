@@ -1,0 +1,23 @@
+{
+  "name": "prongapp",
+  "version": "1.0.0",
+  "description": "A better project structure for Angular",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpdoud/ProNgApp.git"
+  },
+  "author": "Greg Doud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpdoud/ProNgApp/issues"
+  },
+  "homepage": "https://github.com/gpdoud/ProNgApp#readme"
+}

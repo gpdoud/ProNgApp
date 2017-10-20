@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <p>
       help works!
     </p>
+    <a routerLink="/about">About</a>
   `,
   styles: []
 })

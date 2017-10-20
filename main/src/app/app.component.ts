@@ -6,8 +6,7 @@ import { Component } from '@angular/core';
     <p>
       app Works!
     </p>
-    <about-comp></about-comp>
-    <help-comp></help-comp>
+    <router-outlet></router-outlet>
   `,
   styles: []
 })
